@@ -1,5 +1,11 @@
 body {background-color: rgb(0, 0, 0);
 }
+
+#truex {margin-left: 30%}
+#truex {width: 40% }
+#truex {size: -1000}
+#truex {border-color: red;}
+
 .p1 {border-style: double;
 border-color: yellow;
 border-width: 50%;
