@@ -9,8 +9,8 @@ body {background-color: rgb(0, 0, 0);
 .p1 {text-align: center;
 border-style: double;
 border-color: yellow;
-border-width: 50%;
-border-left: 50%;
+border-width: 40%;
+border-left: 30%;
 color: orangered;
 font-size: 100%;
 }
@@ -18,16 +18,16 @@ font-size: 100%;
 .p2{border-style: groove;
     text-align: center;
 border-color: yellow;
-border-width: 50%;
-border-left: 50%;
+border-width: 80%;
+border-left: 30%;
 color: orangered;
 font-size: 100%;}
 
 .p3{border-style: solid;
     text-align: center;
 border-color: yellow;
-border-width: 50%;
-border-left: 50%;
+border-width: 30%;
+border-left: 70%;
 color: orangered;
 font-size: 100%;}
 
